@@ -1,0 +1,19 @@
+.heading{
+width: 100%;
+font-size: 23px;
+box-shadow: 5px 5px 5px beige;
+margin: 0;
+}
+
+input{
+width:40%;
+}
+
+.copyrightfooter{
+position: fixed;
+bottom:0;
+width: 100%;
+line-height: 3;
+background-color: aqua;
+text-align: center;
+}
